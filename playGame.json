@@ -1,0 +1,29 @@
+
+[
+  {
+    "question": "What is the largest country in the world?",
+    "options": ["Canada","USA", "Austrailya","Russia"],
+    "answer": "Russia"
+  },
+  {
+    "question": "What country has the most islands in the world?",
+    "options": ["Sweden", "Island", "India","Turkiet"],
+    "answer": "Sweden"
+  },
+  {
+      "question": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "Trump", "George Washington","James Monroe"],
+      "answer": "George Washington"
+  },
+
+  {
+      "question": "In what year did the Titanic sink?",
+      "options": ["1913", "1914","1912", "1911"],
+      "answer": "1912"
+  }, 
+  {
+      "question": "Who wrote Romeo and Juliet?",
+      "options": ["Karez Peshawa","William Shakespeare", "William McKinley", "William Howard Taft"],
+      "answer": "William Shakespeare"
+  }
+]
